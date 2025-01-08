@@ -8,7 +8,7 @@ ___Negrito e italico___
 
 - Lista 1
 - Lista 2
-   -Sublista
+   - Sublista
 
 <!--
 **luisfelipesilvasantos/luisfelipesilvasantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
