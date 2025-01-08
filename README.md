@@ -19,7 +19,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"" width="50px">
 </p>
 
-------
+-----
 
 |Cursos | Certificados |
 |-------|--------------|
