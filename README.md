@@ -2,12 +2,13 @@
 
 <!-- Cabeçalhos -->
 
-# Títulos 1
-## Títulos 2
-### Títulos 3
-#### Títulos 4
-##### Títulos 5
-###### Títulos 
+*italico* ou _italico_
+**Negrito** ou __negrito__
+___Negrito e italico___
+
+- Lista 1
+- Lista 2
+   -Sublista
 
 <!--
 **luisfelipesilvasantos/luisfelipesilvasantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
