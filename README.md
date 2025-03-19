@@ -3,14 +3,21 @@
 ![Gif](https://www.metoludi.com.br/wp-content/uploads/2021/07/1_GKSUn8nIBnFy07luMC5wlw.gif)
 -----
 
-### 😎 Olá, me chamo Luis Felipe!!
+### 😎 Sobre mim
 
-💬 Sou formado em Analise e Desenvolvimento de Sistemas, no momento estou afastado da área, mas voltando a estudar as novas tecnologias do mercado!
+
+Olá! Me chamo Luis Felipe e sou formado em Análise e Desenvolvimento de Sistemas.
+Atualmente, estou retomando os estudos e explorando novas tecnologias do mercado!
+
+
+📍 Áreas de interesse: Linux, Cloud Computing, DevOps e Administração de Sistemas.
+
+📫 Vamos conectar?
 
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="25px">](https://www.linkedin.com/in/luis-felipe-ss/)
 -----
 
-### Tecnologias que estou estudando atualmente!!
+### 🚀 Tecnologias que estou estudando!!
 
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="50px">
@@ -21,7 +28,7 @@
 
 -----
 
-### Meus certificados!!
+### 📜 Certificados!!
 
 |Cursos | Certificados |
 |-------|--------------|
